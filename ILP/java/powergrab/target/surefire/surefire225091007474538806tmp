@@ -1,0 +1,27 @@
+#surefire
+#Thu Dec 05 20:26:36 GMT 2019
+testClassesDirectory=C\:\\Users\\kayze\\Dropbox\\3rd year\\ILP\\java\\powergrab\\target\\test-classes
+classPathUrl.4=C\:\\Users\\kayze\\.m2\\repository\\junit\\junit\\4.9\\junit-4.9.jar
+classPathUrl.3=C\:\\Users\\kayze\\.m2\\repository\\com\\google\\code\\gson\\gson\\2.8.5\\gson-2.8.5.jar
+classPathUrl.2=C\:\\Users\\kayze\\.m2\\repository\\com\\mapbox\\mapboxsdk\\mapbox-sdk-geojson\\4.9.0\\mapbox-sdk-geojson-4.9.0.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\kayze\\Dropbox\\3rd year\\ILP\\java\\powergrab\\target\\classes
+reportsDirectory=C\:\\Users\\kayze\\Dropbox\\3rd year\\ILP\\java\\powergrab\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\kayze\\Dropbox\\3rd year\\ILP\\java\\powergrab\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\kayze\\Dropbox\\3rd year\\ILP\\java\\powergrab\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\kayze\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\kayze\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=uk.ac.ed.inf.powergrab.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=C\:\\Users\\kayze\\Dropbox\\3rd year\\ILP\\java\\powergrab\\.surefire-AC0A960D5ED606E44126060A2B6F05CAE57AB277
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.5=C\:\\Users\\kayze\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.1\\hamcrest-core-1.1.jar
