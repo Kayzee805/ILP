@@ -1,1 +1,1 @@
-# inf2b
+# Informatics large practical
